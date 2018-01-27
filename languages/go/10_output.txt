@@ -1,0 +1,6 @@
+2017-11-17 13:21:07.42258661 -0800 PST I am some output text
+17 Nov 17 13:22 -0800 I am some output text
+[17 Nov 17 13:22 -0800] I am some output text
+[17 Nov 17 13:49 -0800] I am some output text
+[17 Nov 17 13:49 -0800] I am some output text
+[17 Nov 17 13:49 -0800] I am some output text
